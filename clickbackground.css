@@ -1,0 +1,29 @@
+body {
+  background-image: url("Sprinkles.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center center;
+  background-attachment: fixed;
+  text-align: center; }
+  
+ body {
+  margin: 2%;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+ h3 { 
+	color: #CC0099;
+	font-size:170%;
+	margin: 2%;
+	padding: 0%;
+	
+p {
+	padding: 5%;
+}
+	
+h4{
+	padding: 5%;
+}
